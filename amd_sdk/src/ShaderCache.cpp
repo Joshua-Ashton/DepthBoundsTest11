@@ -41,6 +41,7 @@
 
 #include <Shlwapi.h>
 #include <algorithm>
+#include <string>
 
 #pragma warning( disable : 4100 ) // disable unreference formal parameter warnings for /W4 builds
 #pragma warning( disable : 4127 ) // disable conditional expression is constant warnings for /W4 builds
